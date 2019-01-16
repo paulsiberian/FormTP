@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="dialog.business_process.lable.min_user_count">Мин. количество пользователей (k*)</entry>
+    <entry key="dialog.business_process.title.add">Новый бизнес-процесс</entry>
+    <entry key="dialog.business_process.title.edit">Правка бизнес-процесса</entry>
+    <entry key="dialog.button.cancel">Отмена</entry>
+    <entry key="dialog.button.close">Закрыть</entry>
+    <entry key="dialog.button.finish">Готово</entry>
+    <entry key="dialog.button.ok">Хорошо</entry>
+    <entry key="dialog.button.save">Сохранить</entry>
+    <entry key="dialog.language">Язык</entry>
+    <entry key="dialog.result.message">Лучшее решение найдено:</entry>
+    <entry key="dialog.result.title">Результат</entry>
+    <entry key="dialog.training_program.lable.cost">Стоимость обучения (c)</entry>
+    <entry key="dialog.training_program.lable.points">Баллов начислять (q)</entry>
+    <entry key="dialog.training_program.lable.user_count">Количество пользователей (k)</entry>
+    <entry key="dialog.training_program.title.add">Новая программа обучения</entry>
+    <entry key="dialog.training_program.title.edit">Правка программы обучения</entry>
+    <entry key="main_window.button.add">Добавить</entry>
+    <entry key="main_window.button.change_language">Изменить язык</entry>
+    <entry key="main_window.button.delete">Удалить</entry>
+    <entry key="main_window.button.edit">Правка</entry>
+    <entry key="main_window.button.start">Старт</entry>
+    <entry key="main_window.lable.allocated_money">Выделено денег (c*)</entry>
+    <entry key="main_window.title">Формирование программы обучения</entry>
+    <entry key="main_window.tree_item.business_process">процесс</entry>
+    <entry key="main_window.tree_item.root">Бизнес-процессы</entry>
+    <entry key="main_window.tree_item.training_program">программа</entry>
+    <entry key="task_message.all_solutions">Все решения</entry>
+    <entry key="task_message.all_valid_solutions">Все допустимые решения</entry>
+    <entry key="task_message.best_solution">Лучшее решение</entry>
+    <entry key="task_message.business_process">Бизнес-процесс</entry>
+    <entry key="task_message.business_processes_count">Количество бизнес-процессов</entry>
+    <entry key="task_message.valid_solutions">Допустимые решения</entry>
+</properties>

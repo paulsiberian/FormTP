@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="dialog.business_process.lable.min_user_count">Min number of users (k*)</entry>
+    <entry key="dialog.business_process.title.add">New business process</entry>
+    <entry key="dialog.business_process.title.edit">Edit business process</entry>
+    <entry key="dialog.button.cancel">Cancel</entry>
+    <entry key="dialog.button.close">Close</entry>
+    <entry key="dialog.button.finish">Finish</entry>
+    <entry key="dialog.button.ok">Ok</entry>
+    <entry key="dialog.button.save">Save</entry>
+    <entry key="dialog.language">Language</entry>
+    <entry key="dialog.result.message">Best solution found:</entry>
+    <entry key="dialog.result.title">Result</entry>
+    <entry key="dialog.training_program.lable.cost">Training price (c)</entry>
+    <entry key="dialog.training_program.lable.points">Accrue points (q)</entry>
+    <entry key="dialog.training_program.lable.user_count">Number of users (k)</entry>
+    <entry key="dialog.training_program.title.add">New training program</entry>
+    <entry key="dialog.training_program.title.edit">Edit training program</entry>
+    <entry key="main_window.button.add">Add</entry>
+    <entry key="main_window.button.change_language">Chahge language</entry>
+    <entry key="main_window.button.delete">Delete</entry>
+    <entry key="main_window.button.edit">Edit</entry>
+    <entry key="main_window.button.start">Start</entry>
+    <entry key="main_window.lable.allocated_money">Allocated money (c*)</entry>
+    <entry key="main_window.title">Formation of the training program</entry>
+    <entry key="main_window.tree_item.business_process">process</entry>
+    <entry key="main_window.tree_item.root">Business processes</entry>
+    <entry key="main_window.tree_item.training_program">program</entry>
+    <entry key="task_message.all_solutions">All solutions</entry>
+    <entry key="task_message.all_valid_solutions">All valid solutios</entry>
+    <entry key="task_message.best_solution">Best solution</entry>
+    <entry key="task_message.business_process">Business process</entry>
+    <entry key="task_message.business_processes_count">Number of business processes</entry>
+    <entry key="task_message.valid_solutions">Valid solutions</entry>
+</properties>
